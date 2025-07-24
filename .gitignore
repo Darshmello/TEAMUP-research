@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+
+#data files
+Ch102_2025_05_18wCalculations.xlsx
+
 # C extensions
 *.so
 
