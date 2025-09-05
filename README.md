@@ -14,7 +14,7 @@ This project provides a complete pipeline for analyzing photovoltaic (PV) IV cur
 ## Folder Structure
 ```
 TEAMUP-DARSH/
-├── Ch102_2025_05_18wCalculations.xlsx   # Example raw data file
+├── Ch102_2025_05_18wCalculations.xlsx   # raw data file
 ├── data_loader.py                       # Loads and parses PV data from Excel
 ├── ivcurve.py                           # Main all-in-one IV analysis script
 ├── series_resistance_calculator.py      # Standalone Sites method calculator
@@ -72,7 +72,6 @@ pip install numpy pandas matplotlib scipy openpyxl
 - [Pyscha et al., 2020]
 
 ## License
-MIT License
+
 
 ---
-*For questions or contributions, please contact the project maintainer.*
